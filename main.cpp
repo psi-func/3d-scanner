@@ -2,6 +2,8 @@
 #include <vector>
 #include <memory>
 
+#include <nlohmann/json.hpp>
+
 #include <icamerasystem.h>
 #include <icamerasystemsubscriber.h>
 #include "ThreadSafePrint.h"
